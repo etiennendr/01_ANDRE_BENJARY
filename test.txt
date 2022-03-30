@@ -1,0 +1,1 @@
+Le fichier contenant nos noms a été commit dans la branche mon_fichier et n'est plus visible sans faire un "git checkout mon_fichier".
